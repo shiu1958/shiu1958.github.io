@@ -1,0 +1,930 @@
+\documentclass{twarticle}
+%\documentclass{article}
+\textwidth=500pt
+\textheight=675pt
+\oddsidemargin=-0.3in \topmargin=-0.6in
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{CJK}
+\usepackage{hyperref}
+\usepackage{enumerate}%for enumerate environment
+\hypersetup{backref,colorlinks=true,urlcolor=blue}
+\begin{document}
+
+\section{Books and Articles}
+%\begin{CJK*}{Bg5}{song}
+\begin{enumerate}[{[}1{]}]
+\item W.C. Shiu, {\it Linear Algebra}, Department of Mathematics, Hong Kong Baptist
+University, 2016.
+\item W.C. Shiu and P.K. Sun, {\it A First Course in Graph
+Theory}, Department of Mathematics, Hong Kong Baptist
+University, 2014.
+\item W.C. Shiu and L. Ling, {\it Smart Decisions},
+Pearson, 2012.
+\item W.C. Shiu and C.I. Chu, {\it Linear Algebra}, McGraw Hill, 2nd Ed. updated, 2012.
+\item 邵慰慈、鄧文禮，{\it 統計學概論}，香港教育圖書公司，2008。
+\item 潘建強、邵慰慈，{\it 基礎數論}， 勤達出版社，2008。
+\item 邵慰慈，可支援中文的數學編輯軟件 -- PUTex，{\it DATUM（數學教育期刊）}，{\bf 42}，29-31
+(2005)。
+\item 唐創時、邵慰慈： 費馬最後定理的影響，{\it
+文匯報}, Aug. 15, 2005。
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/fermat.pdf}{原文}
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/fermat_news.pdf}{新聞稿}
+\item 邵慰慈、潘建強，{\it 基礎離散數學}， 九章出版社，2005。
+
+
+\item 李華剛、廖俊傑、邵慰慈 ，{\it 統計學入門}，香港教育圖書公司，1997, 1999。
+
+\item C.I. Chu and W.C. Shiu, {\it Lecture Notes on Linear Algebra}, Department of Mathematics, Hong Kong Baptist
+University, 1994, 2nd edition 1996, 3rd edition
+1998, 4th edition 2001.
+
+\item W.C. Shiu, {\it Lecture Notes on Discrete Mathematics -- Graph Theory}, Department of Mathematics, Hong Kong Baptist
+College, 1989.
+\end{enumerate}
+%\end{CJK*}
+\section{213 published or accepted papers}
+
+\begin{enumerate}[{[}1{]}]
+
+\item J-M. Guo, J. Li, P. Huang and W.C. Shiu, Coefficients of the characteristic polynomial of the (signless, normalized) Laplacian of a graph, to appear in {\it Graphs and Combinatorics}, accepted at July 11, 2017.
+
+\item Q. Wu and W.C. Shiu, $L(j,k)$-labeling numbers of square of paths, to appear in {\it AKCE International Journal of Graphs and Combinatorics}, (accepted at July 3, 2017).
+
+\item J. Huo, W.C. Shiu and W-F. Wang, The neighbor expanded sum distinguishing index of Halin graphs, to appear in {\it ARS Combin.} (accepted at May 2, 2017).
+
+\item P. Huang, W.C. Shiu and P.K. Sun, A relationship between the walks and the semi-edge walks of graphs, to appear in {\it J. Math. Research Appl.} (Feb. 10, 2017).
+
+\item W.C. Shiu, G.C. Lau and S-M. Lee, On (Semi-) edge-primality graphs, to appear in {\it Iranian J. Mathematical Sciences and Informatics} (accepted at Jan 14, 2017).
+
+\item W.C. Shiu, Integer-antimagic spectra of fan, wheel and gear graphs, to appear in {\it J. Graph Labeling}, (accepted at March 28, 2016).
+
+\item G.C. Lau and W.C. Shiu, On SD-prime Labeling of Graphs, to appear in {\it Utilitas Mathematica}, (accepted at Dec. 2014).
+
+\item J. Li and W.C. Shiu, Unicyclic graphs with a perfect matching having signless Laplacian eigenvalue two, {\it J. Math. Research with Appl.}, {\bf 37}, 379-390 (2017).
+
+\item Q. Wu and W.C. Shiu, Circular $L(j,k)$-labeling number of square paths, to appear in {\it J. Combin. Number Theory}, {\bf 9}, (2017).
+
+\item W.C. Shiu, Full edge-friendly index sets of complete bipartite graphs,
+{\it Trans. Combin.}, {\bf 6(2)}, 7-17 (2017).
+
+\item W.C. Shiu, P. Huang, P.K. Sun, The signless Laplacian spectral radius of
+$k$-connected irregular graphs, {\it Linear and Multilinear Algebra}, {\bf 65}, 830-839 (2017).
+
+\item J. Li, J-M. Guo and W.C. Shiu, The minimum algebraic connectivity of graphs with a given clique number, {\it Acta Math. Appl. Sinica}, (Chinese version), {\bf 39}, 928-937 (2016). (English
+version: \href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p1170-final.pdf}{PDF1170})
+
+\item D. Chen, W.C. Shiu, Q. Shu, P.K. Sun and W-F. Wang, A characterization of $L(2,1)$-labeling
+number for trees with maximum degree $3$, {\it Acta Math. Sinca}, (Chinese version), {\bf 59},
+685-710 (2016). (English version:
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p1510-final.pdf}{PDF1510})
+
+\item G.C. Lau, W.C. Shiu, H.K. Ng, G.D. Ng and P. Jeyanthi, Further results on SD-prime labeling, {\it Journal of Combinatorial Mathematics and Combinatorial Computing}, {\bf 98}, 151-170 (2016).
+
+\item G.C. Lau, W.C. Shiu and H.K. Ng, Further Results On Super Graceful Labeling of Graphs, {\it AKCE International Journal of Graphs and Combinatorics}, {\bf 13}, 200-209 (2016).
+
+\item J-M. Guo, J. Li and W.C. Shiu, Effects on the normalized Laplacian spectral radius of non-bipartite graphs under perturbation and their applications, {\it Linear and Multilinear Algebra}, {\bf 64}, 2177-2187 (2016).
+
+\item X. Hu, W-F. Wang, W.C. Shiu and Y. Wang, Plane graphs with maximum degree $9$ are entirely $11$-choosable, {\it Discrete Math.}, {\bf 339}, 2742-2753 (2016).
+
+\item J. Li, Y. Liu and W.C. Shiu, The irregularity of two types of trees, {\it Discrete
+Mathematics and Theoretical Computer Science}, {\bf 17(3)}, 203-216 (2016).
+
+\item J-M. Guo, J. Li and W.C. Shiu, The largest normalized Laplacian spectral radius of
+non-bipartite graphs, {\it Bull. Malays. Math. Sci. Soc.}, {\bf 39}, S77-S87 (2016).
+DOI:10.1007/s40840-015-0241-y.
+
+\item W.C. Shiu and R.M. Low, The integer-antimagic spectra of dumbbell graphs, {\it Bull. of ICA},
+{\bf 77}, 89-110 (2016).
+
+\item W.C. Shiu and R.M. Low, Integer-antimagic spectra of complete bipartite graphs and complete
+bipartite graphs with a deleted edge, {\it Bull. ICA}, {\bf 76}, 54-68 (2016).
+
+\item  W.C. Shiu, Extreme edge-friendly indices of complete bipartite graphs, {\it Trans. Combin.}, {\bf 5(3)}, 11-21 (2016).
+
+
+\item Q. Wu, W.C. Shiu and P.K. Sun, $L(j,k)$-labeling number of Cartesian product of path and cycle, {\it J. Combin. Optim.}, {\bf 31}, 604-634 (2016). DOI:
+10.1007/s10878-014-9775-4.
+
+\item P. Huang, W.C. Shiu and P.K. Sun, Maximizing the spectral radius of $k$-connected graphs with given diameter, {\it Lin. Alg. Appl.}, {\bf 488}, 350-362 (2016).
+
+\item W.C. Shiu, P.K. Sun and R.M. Low, The integer-antimagic spectra of tadpole and lollipop graphs, {\it Congr. Numer.}, {\bf 225}, 5-22 (2015).
+
+\item  W.C. Shiu and G.C. Lau, Some results on $k$-edge-magic broken wheel graphs,
+{\it J. Graph Labeling}, {\bf 1}, 65-79 (2015).
+
+\item  W.C. Shiu, P.C.B. Lam and S-M. Lee, Edge-magic index sets
+of square of paths, {\it Utilitas Mathematica}, {\bf 97}, 271-286 (2015).
+
+\item Q. Li, W.C. Shiu and H. Yao, Matching
+preclusion for cube-connected cycles, {\it Discrete Applied Math.}, {\bf 190-191}, 118-126 (2015).
+
+\item J. Li, J-M. Guo, W.C. Shiu, A note on
+Randi\'c energy, {\it MATCH Communications in Mathematical
+and Computer Chemistry}, {\bf 74}, 389-398 (2015).
+
+\item D.
+Chen, W.C. Shiu, Q. Shu, P.K. Sun and W-F. Wang,
+$(2,1)$-Total labeling of trees with large maximum degree,
+{\it Discrete Appl. Math.}, {\bf 187}, 61-69 (2015).
+
+\item
+R. Liu and W.C. Shiu, General Randi{\'c} matrix and general
+Randi{\'c} incidence matrix, {\it Discrete Applied Math.},
+{\bf 186}, 168-175 (2015).
+
+\item R. Liu, W.C. Shiu and J.
+Xue, Sufficient spectral conditions on Hamiltonian and
+traceable graphs, {\it Linear Alg. Appl.}, {\bf 467},
+254-266 (2015).
+
+\item H. Zhou, W.C. Shiu and P.C.B. Lam, Bounds on
+$L(2,1)$-choice number of Cartesian products of paths
+and spiders, {\it J. Combin. Number Theory}, {\bf
+6(4)}, 219-231 (2014).
+
+\item J. Li, J-M. Guo and W.C. Shiu, Bounds on normalized
+Laplacian eigenvalues of graphs, {\it J. Inequalities and
+Applications}, {\bf 2014:316} (2014). DOI:
+10.1186/1029-242X-2014-316.
+
+\item J. Li and W.C. Shiu, The
+harmonic index of a graph, {\it Rocky Mountain J. Math.},
+{\bf 44(5)}, 1607-1620 (2014).
+
+\item J. Li and W.C. Shiu,
+The spectral radii of graphs with prescribed degree
+sequence, {\it Kyungpook Math. J.}, {\bf 54}, 425-441
+(2014).
+
+\item H. Zhou, W.C. Shiu and P.C.B. Lam, Notes on $L(1,1)$ and $L(2,1)$ labelings for $n$-cube,
+{\it J. Combin. Optimization}, {\bf 28}, 626-638 (2014).
+
+\item J-B. Lv, J. Li and W.C. Shiu, The harmonic index of
+unicyclic graphs with given matching number, {\it
+Kragujevac J. Math.}, {\bf 38}, 173-183 (2014).
+
+\item J. Li and W.C. Shiu, The number of spanning trees of composite graphs,
+{\it Journal of Combinatorial Mathematics and Combinatorial Computing}, {\bf 89}, 45-52 (2014).
+
+\item J. Li, J-M. Guo, W.C. Shiu and A. Chang, Six classes
+of trees with largest normalized algebraic connectivity,
+{\it Linear Alg. Appl.}, {\bf 452}, 318-327 (2014).
+
+\item J. Li, J-M. Guo, W.C. Shiu and A. Chang, An
+edge-separating theorem on the second smallest normalized
+Laplacian eigenvalue of a graph and its applications, {\it
+Discrete Appl. Math.}, {\bf 171}, 104-115 (2014).
+
+\item J. Li, J-M. Guo and W.C. Shiu, The Normalized
+Laplacian Estrada Index of a Graph, {\it FILOMAT}, {\bf
+28}, 365-371 (2014).
+
+\item  Q. Wu, W.C. Shiu and P.K. Sun, Circular $L(j,k)$-labeling number of direct
+product of path and cycle, {\it J. Combin. Optimization}, {\bf 27}, 355-368 (2014).
+
+\item W.H. Chan, P.C.B. Lam and W.C. Shiu, Characterization of 3-regular Halin
+graphs with edge-face total chromatic number equal to
+four, {\it Ars Combin.}, {\bf 113}, 257-262 (2014).
+
+\item J-M. Guo, W.C. Shiu and J. Li, On the Laplacian,
+signless Laplacian and normalized Laplacian characteristic
+polynomials of a graph, {\it Czechoslovak Mathematical
+Journal}, {\bf 63}, 701-720 (2013).
+
+\item W.C. Shiu and M.-H. Ho, Full friendly index sets and
+full product-cordial index sets of some permutation
+Petersen graphs, {\it J. Combin. Number Theory}, {\bf
+5(3)}, 227-244 (2013).
+
+\item W.H. Chan, R.M. Low and W.C. Shiu, Group-antimagic labelings of graphs,
+{\it Congr. Numer.}, {\bf 217}, 21-31 (2013).
+
+\item W.C. Shiu and M.-H. Ho, Full friendly index sets of slender and flat cylinder graphs,
+{\it Transactions on Combinatorics}, {\bf 2(4)}, 63-80 (2013).
+
+\item  W.C. Shiu and R.M. Low, Group-magic labelings of graphs with deleted edges,
+{\it Australas. J. Combin.}, {\bf 57}, 3-19 (2013).
+
+\item J-M. Guo, J. Li and W.C. Shiu, A note on the upper bounds for the Laplacian spectral radius of graphs,
+{\it Linear Alg. Appl.}, {\bf 439}, 1657-1661 (2013).
+
+\item W.H. Chan, W.C. Shiu, P.K. Sun and X. Zhu, The
+strong game colouring number of directed graphs, {\it Discrete Math.}, {\bf 313}, 1070-1077 (2013).
+
+\item H. Zhang, W.C. Shiu and P.K. Sun, A Relation between
+Clar Covering Polynomial and Cube Polynomial, {\it
+MATCH Communications in Mathematical and Computer
+Chemistry}, {\bf 70}, 477-492 (2013).
+
+
+\item W.C. Shiu and Q. Wu, $L(j,k)$-number of direct product of path and cycle,
+{\it Acta Math Sinica}, {\bf 29}, 1437-1448 (2013).
+
+
+\item W.C. Shiu, Product-cordial index set for Cartesian product of a graph with a path, {\it J. Comb. Number Theory}, {\bf 4(3)} , 177-194 (2012).
+
+\item J. Li, J-M. Guo and W.C. Shiu, On the second largest
+Laplacian eigenvalues of graphs, {\it Linear
+Alg. Appl.}, {\bf 438}, 2438-2446 (2013).
+
+\item J. Li, J-M. Guo and W.C. Shiu, On the spectral
+radius of unicyclic graphs with fixed girth, {\it ARS Combin.}, {\bf 108}, 65-80 (2013).
+
+\item W.C. Shiu and R.M. Low, The integer-magic spectra of
+bicyclic graphs without pendant, {\it Congr. Numer.}, {\bf 214}, 65-73 (2012).
+
+
+\item W.C. Shiu, The non-edge-magic simple connected cubic graph of
+order $10$, {\it Journal of Combinatorial Mathematics
+and Combinatorial Computing}, {\bf 83}, 225-241 (2012).
+
+
+\item W.C. Shiu, H. Chen, X.G. Chen and P.K. Sun, On the total
+restrained domination number of direct products of graphs,
+{\it Discussiones Math. Graph Theory}, {\bf 32}, 629-641 (2012).
+
+\item H. Zhou, W.C. Shiu and P.C.B. Lam, The
+$L(2,1)$-choosability of cycle, {\it Transactions on
+Combinatorics}, {\bf 1(3)}, 21-38 (2012).
+
+
+\item  P.K. Sun and W.C. Shiu, Some Results on incidence coloring,
+star arboricity and domination number, {\it Australas.
+J. Combin.}, {\bf 54}, 107-114 (2012).
+
+\item Y. Hou, Z. Tang and W.C. Shiu, Some results on graphs with exactly two main
+eigenvalues, {\it Appl. Math. Lett.}, {\bf 25},
+1274-1278  (2012).
+
+\item J. Li, J-M. Guo and W.C. Shiu, The smallest values
+of algebraic connectivity for trees, {\it Acta Math.
+Sinica}, {\bf 28}, 2021-2032 (2012).
+
+\item W.C. Shiu, S-M. Lee, Full friendly index sets and
+full product-cordial index sets of twisted cylinders, {\it J. Combinatorics and
+Number Theory}, {\bf 3(3)}, 209-216 (2012).
+
+\item J-M. Guo, J. Li and W.C. Shiu, The smallest Laplacian spectral
+radius of graphs with a given clique number, {\it
+Linear Alg. Appl.}, {\bf 437}, 1109-1122 (2012).
+
+\item D-J. Huang, W.C. Shiu and W-F. Wang, On the
+vertex-arboricity of planar graphs without 7-cycles,
+{\it Discrete Math.}, {\bf 312}, 2304-2315 (2012).
+
+\item W.C. Shiu and H. Kwong, Product-cordial index and
+friendly index of regular graphs, {\it Transactions on
+Combinatorics}, {\bf 1(1)}, 15-20 (2012).
+
+\item W.C. Shiu and F.S. Wong, Full friendly index sets
+of cylinder graphs, {\it Australas. J. Combin.}, {\bf
+52}, 141-162 (2012).
+
+\item W.H. Chan, R.M. Low, W.C. Shiu, J.P.
+Steinberger and K.Y. Wan, On a switch-setting problem
+arising from a variation of the lights out game, {\it
+JP J. Algebra, Number Theory Appl.}, {\bf 24}, 173-184
+(2012).
+
+
+\item X. Chen and W.C. Shiu, A new upper bound on global
+defensive alliance number in trees, {\it Electronic J.
+Combin.}, {\bf 18}, \#P202 (2011).
+
+\item W.C. Shiu, W.H. Chan, Z.F. Zhang and L. Bian, On
+the adjacent vertex-distinguishing acyclic edge
+coloring of graphs, {\it Applied Math. J. Chinese
+University}, {\bf 26}, 439-452 (2011).
+
+%and {\it Journal of Systems Science and Mathematics
+%Sciences} (Chinese Translation), (2012).
+
+\item C.O. Chow and W.C. Shiu, Counting simsun
+permutations by descents, {\it Annals of
+Combinatorics}, {\bf 15}, 625-635 (2011).
+
+\item W.C. Shiu, J-M. Guo and J. Li, The minimum
+algebraic connectivity of caterpillar unicyclic graphs,
+{\it Electronic Journal of Linear Algebra}, {\bf 22},
+838-848 (2011).
+
+\item Y. Hou, W.C. Shiu and W.H. Chan, Graphs whose critical
+groups have larger rank, {\it Acta Math. Sinica}, {\bf
+27}, 1663-1670, (2011).
+
+\item W.C. Shiu, J. Li and W.H. Chan, A note on the Laplacian
+Estrada index of a graph, {\it MATCH Communications in
+Mathematical and Computer Chemistry}, {\bf 66}, 777-784
+(2011).
+
+
+\item J. Li, W.C. Shiu and W.H. Chan, On the Laplacian
+Spectral Radii of Bipartite Graphs, {\it Linear Alg.
+Appl.}, {\bf 435}, 2183-2192 (2011).
+
+\item J-M. Guo, W.C. Shiu and J. Li, The
+algebraic connectivity of lollipop graphs, {\it Linear
+Alg. Appl.}, {\bf 434} , 2204-2210 (2011).
+
+\item W.C. Shiu and F.S. Wong, Strong vertex-graceful
+labelings for some double cycles, {\it Congr. Numer.},
+{\bf 202}, 17-24 (2010).
+
+\item J. Li, J-M. Guo and W.C. Shiu, The orderings of
+bicyclic graphs and connected graphs by algebraic
+connectivity, {\it Electronic Journal of
+Combinatorics}, {\bf 17}, \#R162, (2010).
+
+\item Y. Hou and W.C. Shiu, The spectrum of the edge
+corona of two graphs, {\it Electronic Journal of Linear
+Algebra}, {\bf 20}, 586-594 (2010).
+
+\item W.C. Shiu, H. Zhang and S. Liu, Maximal resonance of cubic
+bipartite polyhedral graphs, {\it J. Math. Chem.}, {\bf
+48}, 676-686 (2010).
+
+\item W.C. Shiu, X. Chen and W.H. Chan, Some results
+on matching and total domination in graphs, {\it
+Application Analysis and Discrete Math.}, {\bf 4},
+241-252 (2010).
+
+\item X. Chen and W.C. Shiu, A note on weakly connected domination number in
+graphs, {\it Ars Combinatoria}, {\bf 97}, 193-201
+(2010).
+
+\item J. Li, W.C. Shiu and A. Chang, The Laplacian
+spectral radius of graphs, {\it Czechoslovak
+Mathematical Journal}, {\bf 60 (135)}, 835-847 (2010).
+
+\item J. Li, J-M. Guo and W.C. Shiu, The smallest values
+of algebraic connectivity for unicyclic graphs, {\it
+Discrete Appl. Math.}, {\bf 158}, 1633-1643 (2010).
+
+\item J. Li, W.C. Shiu, W.H. Chan and A. Chang,
+Ordering trees by their largest Laplacian eigenvalues,
+{\it Graph Theory Notes of New York}, {\bf LVIII}, 9-18
+(2010).
+\item W.C. Shiu, W. Li, W.H. Chan, On the spectral of the
+fullerene admitting nontrivial cyclic-5-cutset, {\it
+Australasian Journal of Combinatorics}, {\bf 47}, 41-51
+(2010).
+
+\item W.C. Shiu and M.H. Ling, Full Friendly Index Sets
+of Cartesian Products of two Cycles, {\it Acta Math.
+Sinica}, {\bf 26}, 1233-1244 (2010).
+
+\item W.C. Shiu, X.G. Chen and W.H. Chan, Triangle-free
+graphs with large independent domination number, {\it
+Discrete Opt.}, {\bf 7}, 86-92 (2010).
+
+\item W.C. Shiu, X. Chen and W.H. Chan, Uniformly pair-bonded
+trees, {\it Ars Combin.}, {\bf 94}, 71-78 (2010).
+
+\item J. Li, W.C. Shiu and A. Chang, The number of spanning trees
+of a graph, {\it Applied Math. Letters}, {\bf 23},
+286-290 (2010).
+
+\item H. Zhang, D. Ye and W.C. Shiu, Forcing matching
+number of fullerene graphs, {\it Appl. Discrete Math.},
+{\bf 158}, 573-582 (2010).
+
+\item J. Li, W.C. Shiu and A. Chang, On the $k$-th Laplacian
+Eigenvalues of Trees with Perfect Matchings, {\it
+Linear Algebra Appl.}, {\bf 432}, 1036-1041 (2010).
+
+\item X. Chen and W.C. Shiu, A note on the domination
+dot-critical graphs, {\it Discrete Appl. Math.}, {\bf
+157}, 3743-3745 (2009).
+
+\item W.C. Shiu, J. Li and W.H. Chan, Unicyclic
+and bicyclic graphs of rank 4 or 5, {\it Congr.
+Numer.}, {\bf 198}, 51-62 (2009).
+
+\item W.C. Shiu and F.S. Wong, Extreme Friendly
+Indices of $C_m\times P_n$, {\it Congr. Numer.}, {\bf
+197}, 65-75 (2009).
+
+\item W.H. Chan, P.C.B. Lam and W.C. Shiu, Edge-face
+total chromatic number of Halin graphs, {\it SIAM J.
+Discrete Math.} {\bf 23}, 1646-1654 (2009).
+
+\item P.C.B. Lam,  T.M. Wang, W.C. Shiu and G. Gu, On
+Distance Two Labelling of Unit Interval Graphs, {\it
+Taiwanese J. Math.}, {\bf 13(4)}, 1167-1179 (2009).
+
+\item W.C. Shiu and R.M. Low, $\mathbb Z_k$-magic labelings of fans and
+wheels with magic-value zero, {\it Australas. J.
+Combin.}, {\bf 45}, 309-316 (2009).
+
+\item W.C. Shiu and H. Kwong, An algebraic approach for finding
+balance index sets, {\it Australas. J. Combin.}, {\bf
+45}, 139-155 (2009).
+
+\item J. Li, W.C. Shiu, W.H. Chan and A. Chang, On the spectral
+radius of graphs with connectivity at most $k$, {\it J. Math.
+Chem.}, {\bf 46}, 340-346 (2009).
+
+\item W.C. Shiu and L.Z. Zhang, The maximum Randi\'c index of
+chemical trees with $k$ pendants, {\it Discrete Math.}, {\bf
+309}, 4409-4416 (2009).
+
+\item J. Li, W.C. Shiu and W.H. Chan,
+The Laplacian spectral radius of some graphs, {\it Linear Alg.
+Appl.}, {\bf 431}, 99-103 (2009).
+
+\item Z.H. Chen,  P.C.B. Lam and W.C. Shiu, Collapsible graphs and reduction of
+line graphs, {\it Discrete Math.}, {\bf 309}, 3173-3184
+(2009).
+
+\item J. Li, W.C. Shiu and A. Chang, On the Laplacian Estrada index of a
+graph, {\it Application Analysis and Discrete Math.},
+{\bf 3}, 147-156 (2009).
+
+\item W.C. Shiu and W.K. Tam, The strong chromatic index of
+complete cubic Halin graphs, {\it Applied Math.
+Letter}, {\bf 22}, 754-758 (2009).
+
+\item J. Li, W.C. Shiu and W.H. Chan, Some results on the
+Laplacian eigenvalues of unicyclic graphs, {\it Linear
+Alg. Appl.}, {\bf 430}, 2080-2093 (2009). Erratum: From
+the Editor-in Chief, {\it Linear Alg. Appl.}, {\bf
+434}, xviii-xix (2011).
+
+\item R.M. Low and W.C. Shiu, On the integer-magic spectra of graphs,
+{\it Congressus Numerantium}, {\bf 191}, 193-203 (2008).
+
+\item W.C. Shiu and M.C. Chiu, Invariant factors of Cartesian product of graphs and one
+point unions of graphs, {\it Congressus Numerantium},
+{\bf 191}, 173-184 (2008).
+
+\item P. You, W.C. Shiu, W.H. Chan and A. Chang, Interchanging graph
+associated with sorting by transpositions, {\it Congressus
+Numerantium}, {\bf 191}, 25-31 (2008).
+
+\item Z. Cao, C.I. Chu and W.C. Shiu, The exponential Diophantine equation
+$AX^2+BY^2=\lambda k^Z$ and its applications, {\it
+Taiwanese J. Math.}, {\bf 15}, 1015-1034 (2008).
+
+\item W.C. Shiu and P.K. Sun, Invalid proofs on incidence coloring,
+{\it Discrete Math.}, {\bf 308}, 6575-6580 (2008).
+
+\item W.C. Shiu, M.H. Ling and R.M. Low, The edge-graceful spectra of connected
+bicyclic graphs without pendant, {\it Journal of Combinatorial
+Mathematics and Combinatorial Computing}, {\bf 66}, 171-185 (2008).
+
+\item K.K. Poon and W.C. Shiu, On the Dirichlet's box principle,
+{\it International Journal of Mathematical Education in
+Science and Technology}, {\bf 39}, 833-838 (2008).
+
+\item W.C. Shiu, Extremal Hosoya index and Merrifield-Simmons index of
+hexagonal spiders, {\it Discrete Appl. Math.}, {\bf
+156}, 2978-2985 (2008).
+
+\item H. Zhang, P.C.B. Lam and W.C. Shiu, Resonance graphs and a binary coding
+for the 1-factors of benzenoid systems, {\it SIAM J. Discrete Math.}, {\bf
+22}, 971-984 (2008).
+
+\item W.C. Shiu, Z. Shao, K.K. Poon and D. Zhang, A new approach to the
+$L(2,1)$-labeling of some product of graphs, {\it IEEE
+Trans. Circuit and Systems II}, {\bf 55}, 802-805 (2008).
+
+\item X. Chen, W.C. Shiu and W.H. Chan, Upper bounds on paired-domination
+number, {\it Appl. Math. Letters}, {\bf 21}, 1194-1198 (2008).
+
+\item Z. Shao, R.K. Yeh, K.K. Poon and W.C. Shiu, The $L(2,1)$-labeling of
+$K_{1,n}$-free graphs and its applications, {\it Applied
+Math. Letters}, {\bf 21}, 1188-1193 (2008).
+
+\item Z. Shao, S. Klavar, W.C. Shiu and D. Zhang, Improved bounds on the
+$L(2,1)$-number of direct and strong products of graphs, {\it IEEE
+Trans. on Circuits and System II}, {\bf 55}, 685-689 (2008).
+
+\item W.C. Shiu and G. Liu, $k$-factors in regular graphs, {\it Acta Math. Sinica}, {\bf 24}, 1213-1220 (2008).
+
+\item X. Chen, W.C. Shiu and H. Chen, Trees with equal total domination and
+total restrained domination numbers, {\it Discussiones
+Mathematicae Graph Theory}, {\bf 28}, 59-66 (2008).
+
+
+\item W.C. Shiu and Harris Kwong, Full friendly index sets of $P_2\times P_n$,
+{\it Discrete Math.}, {\bf 308}, 3688-3693 (2008).
+
+\item J. Li, A. Chang and W.C. Shiu, On the nullity of bicyclic graphs,
+{\it MATCH Communications in Mathematical and Computer
+Chemistry}, {\bf 60}, 21-36 (2008).
+
+\item W.C. Shiu and R.M. Low, Ring-magic labelings of graphs,  {\it
+Australas. J. of Combin.}, {\bf 41}, 147-158 (2008).
+
+\item W.H. Chan, P.C.B. Lam and W.C. Shiu,
+Cyclic bandwidth with an edge added, {\it Discrete
+Applied Math.}, {\bf 156}, 131-137 (2008).
+
+
+\item W.C. Shiu and L.Z. Zhang, Pancyclism of $3$-domination-critical graphs
+with small minimum degree, {\it Utilitas Mathematica},
+{\bf 75}, 175-192 (2008).
+
+\item W.C. Shiu and H. Zhang, A complete characterization for $k$-resonant
+Klein-bottle polyhexes, {\it J. Math. Chem.}, {\bf 43}, 45-59 (2008).
+
+\item A. Chang and W.C. Shiu, On the $k$-th eigenvalues of trees with perfect matchings,
+{\it Discrete Math. and Theoretical Comp. Sci.}, {\bf 9} 321-332 (2007).
+
+\item W.C. Shiu and M.H. Ling, Extreme friendly indices of $C_m\times C_n$,
+{\it Congressus Numerantium}, {\bf 188}, 175-182 (2007).
+
+\item W.C. Shiu, Edge-magic labeling matrices of the composition of paths with
+null graphs, {\it Congressus Numerantium}, {\bf 187},
+55-69 (2007).
+
+\item W.C. Shiu and R.W. Low, Integer-magic spectra of sun graphs,
+{\it J. Comb. Optimization}, {\bf 14}, 309-321 (2007).
+
+\item Z.H. Chen, H.J. Lai, W.C. Shiu and D Li,
+An $s$-Hamiltonian line graph problem, {\it Graphs and Combin.}, {\bf 23},
+241-248 (2007).
+
+\item X. Dong, W.C. Shiu, C.I. Chu and Z. Cao, The simultaneous Pell equation
+$y^2-Dz^2=1$ and $x^2-2Dz^2=1$, {\it Acta Arith.}, {\bf 162}, 115-123 (2007).
+
+\item W. Lin, P.C.B. Lam, and W.C. Shiu, Circular chromatic numbers of the
+generalized Mycielskians of cycles, {\it J. of Nanjing University Mathematical
+Biquarterly}, {\bf 23}, 232-241 (2006).
+
+\item W.C. Shiu and C.I. Chu, Frequency of Fibonacci numbers in modulo $3^k$
+that are congruent to $8\pmod{27}$, {\it Int. J. of Pure and Appl. Math.}, {\bf
+33}, 7-21 (2006).
+
+\item W.C. Shiu and C.I. Chu, The number of increasing nonconsecutive subpaths
+in a path, {\it Graph Theory Notes of New York}, {\bf LI}, 47-49 (2006).
+
+\item W.C. Shiu, M.H. Ling and R.M. Low, The entire edge-graceful spectra of
+cycles with one chord, {\it Congressus Numerantium}, {\bf 183}, 213-219 (2006).
+
+\item P.C.B. Lam, W.C. Shiu and G. Gu, Graphs with convex labelings,
+{\it Congressus Numerantium}, {\bf 183}, 33-50 (2006).
+
+\item W.C. Shiu, P.C.B. Lam and P.K. Sun, Cubic graphs with different incidence
+chromatic numbers, {\it Congressus Numerantium}, {\bf 182}, 33-40 (2006).
+
+
+\item W.C. Shiu, Super-edge-graceful labelings of some cubic graphs,
+{\it Acta Math. Sinica}, {\bf 22(6)}, 1621-1628 (2006).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0410.pdf}{PDF0410}
+
+\item W.C. Shiu and R.M. Low, Group-magicness of complete $N$-partite graph,
+{\it Journal of Combinatorial Mathematics and Combinatorial Computing}, {\bf
+58}, 129-134 (2006).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0481.pdf}{PDF0481}
+
+\item W.C. Shiu, P.C.B. Lam and W.K. Tam, On strong chromatic index of Halin
+graph, {\it Journal of Combinatorial Mathematics and
+Combinatorial Computing}, {\bf 57}, 211-222 (2006).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0323.pdf}{PDF0323}
+
+\item A. Chen, A. Chang and W.C. Shiu, Energy ordering of unicycle graphs, {\it MATCH Commum. Math. Comput.
+Chem.}, {\bf 55}, 95-102 (2006).
+
+\item W.C. Shiu and P.C.B. Lam, Super-edge-graceful labelings of multi-level wheel graphs, fan graphs and actinia
+graphs, {\it Congressus Numerantium}, {\bf 174}, 49-63 (2005).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/supgracewheel.pdf}{PDF0540}
+
+
+\item W.C. Shiu, P.C.B. Lam and H. Zhang, $k$-resonance in toroidal polyhexes,
+{\it J. Math. Chem.}, {\bf 38}, 451-466 (2005).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p04K0MathChemv1.pdf}{PDF04K0}
+
+\item W.C. Shiu, A software for editing mathematics in Chinese -- PUTeX, {\it
+Datum}, {\bf 42}, 29-31 (2005).
+
+\item K.K. Poon, K.W. Yeung and W.C. Shiu, On the decimal numbers base $n$,
+{\it Inter. J. Math. Edu. in Sci. and Tech.}, {\bf 36}, 601-605 (2005).
+
+\item W.C. Shiu and C.I. Chu, Distribution of the Fibonacci number
+modulo $3^k$, {\it The Fibonacci Quarterly}, {\bf 43},
+22-28 (2005).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0130rev.pdf}{PDF0130}
+
+\item P.C.B. Lam, W.C. Shiu and Z.M. Song, The 3-choosability of
+plane graphs of girth 4, {\it Discrete Math.}, {\bf
+294}, 297-301 (2005).
+
+\item W.C. Shiu,  P.C.B. Lam and P.K. Sun, Construction of group-magic graphs and
+some $A$-magic graphs with $A$ of even order, {\it Congressus
+Numerantium}, {\bf 167}, 97-107 (2004).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/t0432.pdf}{PDF0432}
+
+
+
+\item W.C. Shiu, Invariant factors of graphs associated with
+hyperplane arrangements, {\it Discrete Math.}, {\bf
+288}, 135-148 (2004).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9810shorted.pdf}{PDF9810}
+
+\item K.K. Poon and W.C. Shiu, Sperner Lemma and its applications, {\it
+Mathmedia}, {\bf 27(4)}, 42-49 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/Sperner.pdf}{PDF025C}
+
+\item H. Zhang, P.C.B. Lam and W.C. Shiu, Cell rotation graphs of strongly
+connected orientations of plane graphs with application, {\it Discrete Appl.
+Math.}, {\bf 130}, 469-485 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0260final.pdf}{PDF0260}
+
+
+\item D. Kremer and W.C. Shiu, Finite transition matrices for permutations
+avoiding pairs of length four patterns, {\it Discrete Math.}, {\bf 268},
+171-183 (2003).
+
+\item P.C.B. Lam, W.C. Shiu and H. Zhang, Elementary block of plane bipartite
+graphs, {\it MATCH Communications in Mathematical and
+Computer Chemistry}, {\bf 49}, 127-137 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/Zhangh.pdf}{PDF0240}
+
+\item W.C. Shiu, P.C.B. Lam and L.Z. Zhang, Fully angular hexagonal chains
+extremal with regard to the largest eigenvalue, {\it
+Indian J. of Chemistry}, {\bf 42A}, 1298-1303 (June,
+2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0281sub.pdf}{PDF0281}
+
+\item W.C. Shiu, P.C.B. Lam and Y. Li, On some three-color Ramsey numbers,
+{\it Graphs and Combinatorics}, {\bf 19}, 249-258 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/gc1373.pdf}{PDF9925}
+
+\item W.C. Shiu, P.C.B. Lam and L.Z. Zhang, Extremal $k^*$-cycle
+resonant hexagonal chains, {\it J. Math. Chem.}, {\bf
+33}, 17-28 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0150final.pdf}{PDF0150}
+
+
+\item W.C. Shiu, P.C.B. Lam and H. Zhang, Clar and sextet
+polynomials of buckminsterfullerene, {\it J. Molecular
+Structure: THEOCHEM}, {\bf 622}, 239-248 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0210Theochem4.pdf}{PDF0210}
+
+\item W.C. Shiu and P.C.B. Lam, More on the generalized Fibonacci numbers and
+associated bipartite graphs, {\it International
+Mathematics Journal}, {\bf 3(1)}, 5-9 (2003).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0101inter.pdf}{PDF0101}
+
+\item W.C. Shiu, P.C.B. Lam and Y. Li, On generalized Ramsey
+numbers, {\it Discrete Math.}, {\bf 258}, 383-388
+(2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0020fin.pdf}{PDF0020}
+
+
+\item W.C. Shiu, P.C.B. Lam, F. Zhang and H. Zhang, Normal
+components, Kekul\'e patterns, and Clar patterns in plane bipartite graph, {\it
+Journal of Mathematical Chemistry}, {\bf 31(4)}, 405-420 (2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0230.pdf}{PDF0230}
+
+
+\item W.C. Shiu, P.C.B. Lam and S-M. Lee, On a construction of
+supermagic graphs, {\it Journal of Combinatorial
+Mathematics and Combinatorial Computing}, {\bf 42},
+147-160 (2002).
+(\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0040pub.pdf}{PDF0040})
+
+\item W.C. Shiu, P.C.B. Lam and S-M Lee, Edge-magic indices of
+$(n, n-1)$-graphs, {\it Electronic Notes in Discrete Mathematics}, {\bf 11}
+(July, 2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9815updated.pdf}{PDF9815}
+
+\item W.C. Shiu, P.C.B. Lam and H.L. Cheng, Edge-gracefulness of
+the composition paths with null graphs, {\it Discrete
+Math.}, {\bf 253}, 63-76 (2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0015fin.pdf}{PDF0015}
+
+\item W.C. Shiu, P.C.B. Lam and D.L. Chen, On incidence coloring for some cubic
+graphs, {\it Discrete Math.}, {\bf 252}, 259-266 (2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0055corr.pdf}{PDF0055}
+
+\item W.C. Shiu, P.C.B. Lam and K.K. Poon, On Wiener numbers of
+polygonal nets, {\it Discrete Applied Math.}, {\bf
+122}, 251-261 (2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0060fin.pdf}{PDF0060}
+
+\item W.C. Shiu and S-M. Lee, Some edge-magic cubic graphs, {\it Journal of
+Combinatorial Mathematics and Combinatorial Computing}, {\bf 40}, 115-127
+(2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9825.pdf}{PDF9825}
+
+\item P.C.B. Lam, W.C. Shiu and W.H. Chan, Characterization of
+graphs with equal bandwidth and cyclic bandwidth, {\it
+Discrete Math.}, {\bf 242}, 283-289 (2002).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9919fin.pdf}{PDF9919}
+
+
+\item W.C. Shiu, P.C.B. Lam, D-L. Chen and L-Y. Miao, On the
+$\ell$-distance face coloring of regular plane graphs,
+{\it Congressus Numerantium}, {\bf 152}, 85-88  (2001).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0105sub.pdf}{PDF0105}
+
+
+\item  P.C.B. Lam, J. Liu, W.C. Shiu and Z.M. Song, A class of
+graph with $\chi^*$ close to $\chi -1$, {\it Congressus
+Numerantium}, {\bf 150}, 65-68 (2001).
+
+
+\item P.C.B. Lam, W.C. Shiu, C.S. Tong and Z.F. Zhang, On the
+equitable chromatic number of complete $n$-partite
+graphs, {\it Discrete Applied Math.}, {\bf 113},
+307-310 (2001).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9605.pdf}{PDF9605}
+
+\item W.C. Shiu, S-M. Lee and K. Schaffer, Some $k$-fold
+edge-graceful labelings of $(p, p-1)$-graphs, {\it
+Journal of Combinatorial Mathematics and Combinatorial
+Computing}, {\bf 38}, 81-95 (2001).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9830.pdf}{PDF9830}
+
+\item P.C.B. Lam, W.C. Shiu and B. Xu, On structure of some plane
+graphs with application to choosability, {\it J. Comb.
+Theory, Ser. B}, {\bf 82}, 285-296 (2001).
+
+\item P.C.B. Lam, W.C. Shiu, F. Sun, J.F. Wang and G. Yan, Linear vertex
+arboricity, independence number and clique cover
+number, {\it Ars Combinatoria}, {\bf 58}, 121-128
+(2001).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9710.pdf}{PDF9710}
+
+\item W.C. Shiu, P.C.B. Lam and H.L. Cheng, Supermagic labeling of an
+$s$-duplicate of  $K_{n,n}$, {\it Congressus Numerantium}, {\bf 146}, 119-124
+(2000).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0010.pdf}{PDF0010}
+
+\item P.C.B. Lam, W.C. Shiu and W.H. Chan, Edge-face total chromatic number of
+3-regular Halin graph, {\it Congressus Numerantium},
+{\bf 145}, 161-165 (2000).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p0030.pdf}{PDF0030}
+
+\item M.H.F. Chu and W.C. Shiu, Theoretical studies of AlGaAs-GaAs
+multiple-quantum-well single channel waveguide defined
+by ion-implantation-induced intermixing, {\it
+Proceedings of SPIE}, {\bf 3944}, 149-163 (2000).
+
+\item B.L. Weiss, Y. Chan, W.C. Shiu and E.H. Li, The electro-optic properties
+of interdiffused InGaAs/InP quantum well structures,
+{\it J. of Appl. Phys.}, {\bf 88 (6)}, 3418-3425
+(2000).
+
+\item P.C.B Lam, G. Liu, G. Li and W.C. Shiu, Orthogonal $(g,f)$-factorization
+in networks, {\it Network}, {\bf 35 (4)}, 274-278
+(2000).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9917.pdf}{PDF9917}
+
+\item P.C.B. Lam, W.C. Shiu and H.L. Cheng, Knight's tour on hexagonal nets,
+{\it Congressus Numerantium}, {\bf 141}, 73-82 (1999).
+
+\item W.C. Shiu, P.C.B.
+Lam and S-M Lee, Edge-magic index set of
+$(p,p)$-graphs, {\it Congressus Numerantium}, {\bf
+137}, 97-107 (1999).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9901.pdf}{PDF9901}
+
+\item P.C.B. Lam, J. Liu, W.C. Shiu and J. Wu, Some sufficient conditions for a
+planar graph to be class 1, {\it Congressus
+Numerantium}, {\bf 136}, 201-205 (1999).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9904.pdf}{PDF9904}
+
+\item P.C.B. Lam,
+W.C. Shiu and B. Xu, Edge game coloring of graphs, {\it
+Graph Theory Notes of New York}, {\bf XXXVII:3}, 17-19
+(1999).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9807.pdf}{PDF9807}
+
+\item K.F. Fang, W.C. Shiu and J.X. Pan, Uniform designs based on Latin
+squares, {\it Statistica Sinica}, {\bf 9}, No. {\bf 3},
+905-912 (1999).
+
+
+\item P.C.B. Lam, W.C. Shiu and L. Sun, On independent domination number of
+regular graphs, {\it Discrete Math.}, {\bf 202},
+135-144 (1999).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9702.pdf}{PDF9702}
+
+\item W.C. Shiu, P.C.B. Lam and Z. Zhang, Entire chromatic number of
+maximal outerplanar graphs with maximum degree at most
+$4$, {\it Proc. 8th Quadrennial Internat. Conf. on
+Graph Theory, Combin., Algor. and Appl.}, Vol. {\bf
+II}, 591-595 (1999).
+
+\item W.C. Shiu, P.C.B. Lam and S-M. Lee, Edge-magicness of the composition of
+a cycle with a null graph, {\it Congressus Numerantium}, {\bf 132}, 9-18
+(1998).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9703.pdf}{PDF9703}
+
+
+\item J. Micallef, A. Brincat and W.C. Shiu, Effects of interdiffusion-induces
+strain in Ga$_{0.51}$In$_{0.49}$P---GaAs intermixed
+quantum wells, {\it IEEE Journal of Selected Topics in
+Quantum Electronics}, {\bf 4} No. {\bf 4}, 675-684
+(1998).
+
+\item J. Micallef. A. Brincat and W.C. Shiu, Cation interdiffusion in
+GaInP/GaAs single quantum wells, {\it Materials
+Research Society Symp. Proceeding}, {\bf 484}, 441-446
+(1998).
+
+\item W.C. Shiu and P.C.B. Lam, Wiener numbers of some pericondensed benzenoid
+molecule systems, {\it Congressus Numerantium}, {\bf
+126}, 113-124 (1997).
+
+\item P.C.B. Lam, W.C. Shiu and Y.X. Lam, Duality in the bandwidth problem,
+{\it Congressus Numerantium}, {\bf 124}, 117-127 (1997).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/duality.pdf}{PDF9520}
+
+
+\item W.C. Shiu, P.C.B. Lam and I. Gutman, Wiener number if hexagonal
+bitrapeziums and trapeziums, {\it Bull. Acad. Serbe
+Sci. Arts (Cl. Sci. Math. Natur.)}, {\bf 114}, 9-25
+(1997).
+
+\item P.C.B. Lam, W.C. Shiu and W.H. Chan, On bandwidth and cyclic bandwidth of
+graphs, {\it Ars Combinatorica}, {\bf 47}, 147-152
+(1997).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9610.pdf}{PDF9610}
+
+\item W.C. Shiu and Y.P. Tang, Existence of ideal matrices, {\it Ars
+Combinatorica}, {\bf 47}, 87-92 (1997).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/ideal.pdf}{PDF9620}
+
+\item W.C. Shiu, Decoding de Bruijn arrays constructed by FFMS method, {\it Ars
+Combinatorica}, {\bf 47}, 33-48 (1997).
+
+\item W.C. Shiu, C.S. Tong and P.C.B. Lam, Wiener number of hexagonal
+jagged-rectangles, {\it Discrete Appl. Math.}, {\bf
+80}, 83-96 (1997).
+
+\item P.C.B. Lam, W.C. Shiu, W.H. Chan and Y.X. Lin, On the bandwidth of convex
+triangulation meshes, {\it Discrete Math.}, {\bf 173},
+285-289 (1997).
+
+\item W.C. Shiu and P.C.B. Lam, The Wiener number of hexagonal net, {\it
+Discrete Appl. Math.}, {\bf 73}, 101-111 (1997).
+
+
+\item Y. Chan, W.C. Shiu, W.K. Tsui and E.H. Li, Multiple cations
+interdiffusion in
+In$_{0.53}$Ga$_{0.47}$As/In$_{0.52}$Al$_{0.48}$As
+quantum well, {\it Materials Research Society Symp.
+Preceeding}, {\bf 450}, 377-382 (1997).
+
+\item J. Micallef, J.L. Borg and W.C. Shiu, Polarization insensitivity in
+interdiffused, strained  InGaAs/InP quantum wells, {\it
+Materials Research Society Symp. Preceeding}, {\bf
+450}, 371-376 (1997).
+
+\item W.C. Shiu, C.S. Tong and P.C.B. Lam, Wiener number of some polycyclic
+graphs, {\it Graph Theory Notes of New York}, {\bf
+XXXII:2}, 10-15 (1997).
+
+\item I. Gutman, G. D\"om\"ot\"or, P.C.B. Lam, W.C. Shiu and L. Popvoi\'{c},
+Szeged indices of benzenoid hydrocarbons, {\it
+Polycyclic Aromatic Compounds}, {\bf 8}, 259-270
+(1996).
+
+\item W.K. Tsui, E.H. Li, W.C. Shiu and Y. Chan, Three species interdiffusion
+and their effect on the variation of strains in
+In$_{0.53}$Ga$_{0.47}$As/In$_{0.52}$Al$_{0.48}$As QW,
+{\it Third Chinese Optoelectronics Workshop},
+Changchun, 266-267 (1996).
+
+\item W.C. Shiu, P.C. Lam and I. Gutman, Wiener number of hexagonal
+parallelograms, {\it Graph Theory Notes of New York},
+{\bf XXX:6}, 21-25 (1996).
+
+\item W.C. Shiu, Difference sets in groups containing subgroups of index 2,
+{\it Ars Combinatoria}, {\bf 42}, 199-205 (1996).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/p9510.pdf}{PDF9510}
+
+\item E.H. Li, J. Micallef and W.C. Shiu, The optical properties of
+InGaAs(P)/InP under group V sublattice two-phase interdiffusion, {\it Materials
+Research Society Symp. Preceeding}, {\bf 417}, 289-293 (1996).
+
+\item W.C. Shiu, S.L. Ma and K.T. Fang, On the rank of cyclic Latin squares,
+{\it Linear and Multilinear Algebra}, {\bf 40}, 183-188 (1995).
+
+\item W.C. Shiu, Correction to algebraic structure of Schur rings, {\it Chinese
+Journal of Mathematics (R.O.C.)}, {\bf 23}, 193-194 (1995).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/Shiu1995.pdf}{PDF1995}
+
+\item W.C. Shiu, J. Micallef, I. Ng, and E.H. Li, Effects of
+different cation and anion interdiffusion rates in
+disordered In$_{0.53}$Ga$_{0.47}$As/InP single quantum
+wells, {\it Japanese Journal of Applied Physics}, {\bf
+34}, {\bf part 1}, No. {\bf 4A}, 1778-1783 (1995).
+
+\item W.C. Shiu, Algebraic structure of Schur rings, {\it Chinese Journal of
+Mathematics (R.O.C.)}, {\bf 21}, 55-71 (1993).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/Shiu1993correction.pdf}{PDF1993}
+
+\item W.C. Shiu, Schur rings over dihedral groups, {\it Chinese Journal of
+Mathematics (R.O.C.)}, {\bf 18}, 209-223 (1990).
+\href{http://www.math.hkbu.edu.hk/\~wcshiu/PDF/Shiu1990.pdf}{PDF1990}
+\end{enumerate}
+
+\end{document}
